@@ -13,4 +13,4 @@ como el desarrollo de formas tecnológicas adaptadas a procesos. Habilidades par
 flexibilidad. Comprometido con el equipo profesional, empático, capaz aprender rápidamente nuevas herramientas y adaptarme.
 
 #### Donde puedes encontrarme: 
-[Linkedin]: https://www.linkedin.com/in/reinaldo-c-500969121/
+- [linkedin]: https://www.linkedin.com/in/reinaldo-c-500969121/
