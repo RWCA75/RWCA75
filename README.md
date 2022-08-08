@@ -5,8 +5,8 @@
 
 Ingeniero Electrónico, Ingeniero Civil Industrial, Licenciado en Ciencias de la Ingeniería y Magister en Ingeniería Industrial, 
 especializado en sistemas Electrónicos, C++, Python y Desarrollador Full Stack Javascripts y Frontend VUE en Bootcamps de Talento 
-Digital. Puedo crear eficientemente aplicaciones web dinámicas y seguras. Estoy capacitado para realizar análisis de grandes 
-cantidades de datos, implementando modelos descriptivos y predictivos con visión amplia, desde la multidisciplinariedad.
+Digital. Puedo crear eficientemente aplicaciones web dinámicas y seguras. Estoy capacitado para realizar análisis de datos, 
+Desarrollo de sistemas electrónicos, Circuitos, Hardware, Domótica, Internet de las Cosas IoT
 
 Riguroso con el trabajo en el día a día, meticuloso, me atraen los proyectos intelectuales e innovadores, 
 como el desarrollo de formas tecnológicas adaptadas a procesos. Habilidades para trabajar en distintos escenarios, 
